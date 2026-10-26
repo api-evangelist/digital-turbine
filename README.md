@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Digital Turbine (Fyber) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.digitalturbine.com/
+Digital Turbine provides a mobile growth and monetization platform connecting advertisers, app developers, and device partners. It offers solutions like DT Launchpad for app acquisition, DT Ads for advertising, DT Ignite for device engagement, and a suite of SDKs and APIs enabling app distribution, ad monetization, and data-driven optimization across billions of devices.
+
+**Areas:** Company · Mobile · Advertising · Monetization · SDK
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.digitalturbine.com/)
+- [Documentation](https://docs.digitalturbine.com/)
+- [Getting started](https://docs.digitalturbine.com/dt-exchange/getting-started-with-dt-exchange)
+- [Pricing](https://www.digitalturbine.com/legal/terms-of-use)
+- [Blog](https://www.digitalturbine.com/blog)
+- [Compliance](https://trust.digitalturbine.com/)
+- [Privacy policy](https://www.digitalturbine.com/legal/privacy-policy)
+- [GitHub](https://github.com/DigitalTurbine)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/digital-turbine/](https://apis.io/providers/digital-turbine/).
